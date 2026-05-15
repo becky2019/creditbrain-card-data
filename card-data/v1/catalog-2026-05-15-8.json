@@ -1,0 +1,6144 @@
+{
+  "benefits" : [
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "monthly",
+      "id" : "amex_platinum_uber",
+      "isCustom" : false,
+      "name" : "Uber Cash ($35 in Dec)",
+      "value" : 15
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "annual",
+      "id" : "amex_platinum_uber_dec",
+      "isCustom" : false,
+      "name" : "Uber December Bonus",
+      "value" : 20
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "quarterly",
+      "id" : "amex_platinum_resy",
+      "isCustom" : false,
+      "name" : "Resy Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "monthly",
+      "id" : "amex_platinum_entertainment",
+      "isCustom" : false,
+      "name" : "Digital Entertainment",
+      "value" : 25
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "monthly",
+      "id" : "amex_platinum_walmart",
+      "isCustom" : false,
+      "name" : "Walmart+ Credit",
+      "value" : 12.95
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "quarterly",
+      "id" : "amex_platinum_lululemon",
+      "isCustom" : false,
+      "name" : "Lululemon Credit",
+      "value" : 75
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "semiAnnual",
+      "id" : "amex_platinum_saks",
+      "isCustom" : false,
+      "name" : "Saks Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "semiAnnual",
+      "id" : "amex_platinum_hotel",
+      "isCustom" : false,
+      "name" : "FHR/THC Hotel Credit",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "annual",
+      "id" : "amex_platinum_airline",
+      "isCustom" : false,
+      "name" : "Airline Fee Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "annual",
+      "id" : "amex_platinum_uber_one",
+      "isCustom" : false,
+      "name" : "Uber One Membership",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "annual",
+      "id" : "amex_platinum_clear",
+      "isCustom" : false,
+      "name" : "CLEAR Plus Credit",
+      "value" : 209
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "annual",
+      "id" : "amex_platinum_equinox",
+      "isCustom" : false,
+      "name" : "Equinox Credit",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "annual",
+      "id" : "amex_platinum_oura",
+      "isCustom" : false,
+      "name" : "Oura Ring Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "frequency" : "every4Years",
+      "id" : "amex_platinum_global_entry",
+      "isCustom" : false,
+      "name" : "Global Entry / TSA PreCheck",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "frequency" : "monthly",
+      "id" : "amex_gold_uber",
+      "isCustom" : false,
+      "name" : "Uber Cash",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "frequency" : "monthly",
+      "id" : "amex_gold_dining",
+      "isCustom" : false,
+      "name" : "Dining Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "frequency" : "monthly",
+      "id" : "amex_gold_dunkin",
+      "isCustom" : false,
+      "name" : "Dunkin' Credit",
+      "value" : 7
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "frequency" : "semiAnnual",
+      "id" : "amex_gold_resy",
+      "isCustom" : false,
+      "name" : "Resy Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "annual",
+      "id" : "csr_travel",
+      "isCustom" : false,
+      "name" : "Travel Credit",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "monthly",
+      "id" : "csr_dashpass",
+      "isCustom" : false,
+      "name" : "DoorDash Credits",
+      "value" : 25
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "annual",
+      "id" : "csr_dashpass_membership",
+      "isCustom" : false,
+      "name" : "DashPass Membership",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "annual",
+      "id" : "csr_edit_hotel",
+      "isCustom" : false,
+      "name" : "The Edit Hotel Credit",
+      "value" : 500
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "semiAnnual",
+      "id" : "csr_dining",
+      "isCustom" : false,
+      "name" : "Sapphire Reserve Dining",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "semiAnnual",
+      "id" : "csr_stubhub",
+      "isCustom" : false,
+      "name" : "StubHub Credit",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "annual",
+      "id" : "csr_apple",
+      "isCustom" : false,
+      "name" : "Apple TV+ & Music Credit",
+      "value" : 250
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "monthly",
+      "id" : "csr_lyft",
+      "isCustom" : false,
+      "name" : "Lyft Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "monthly",
+      "id" : "csr_peloton",
+      "isCustom" : false,
+      "name" : "Peloton Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "frequency" : "every4Years",
+      "id" : "csr_global_entry",
+      "isCustom" : false,
+      "name" : "Global Entry / TSA PreCheck",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "frequency" : "annual",
+      "id" : "ventx_travel",
+      "isCustom" : false,
+      "name" : "Travel Credit",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "frequency" : "annual",
+      "id" : "ventx_anniversary",
+      "isCustom" : false,
+      "name" : "Anniversary Miles (10K)",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "frequency" : "every4Years",
+      "id" : "ventx_global_entry",
+      "isCustom" : false,
+      "name" : "Global Entry / TSA PreCheck",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "frequency" : "monthly",
+      "id" : "marriott_brilliant_dining",
+      "isCustom" : false,
+      "name" : "Dining Credit",
+      "value" : 25
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "frequency" : "annual",
+      "id" : "marriott_brilliant_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award (85K)",
+      "value" : 400
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "frequency" : "semiAnnual",
+      "id" : "hilton_aspire_resort",
+      "isCustom" : false,
+      "name" : "Hilton Resort Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "frequency" : "quarterly",
+      "id" : "hilton_aspire_airline",
+      "isCustom" : false,
+      "name" : "Airline Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "frequency" : "annual",
+      "id" : "hilton_aspire_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "frequency" : "annual",
+      "id" : "hilton_aspire_clear",
+      "isCustom" : false,
+      "name" : "CLEAR Plus Credit",
+      "value" : 209
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "frequency" : "monthly",
+      "id" : "csp_doordash",
+      "isCustom" : false,
+      "name" : "DashPass + DoorDash Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "frequency" : "annual",
+      "id" : "csp_hotel",
+      "isCustom" : false,
+      "name" : "Hotel Credit (via Portal)",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "frequency" : "annual",
+      "id" : "ink_pref_dashpass",
+      "isCustom" : false,
+      "name" : "DoorDash DashPass",
+      "value" : 96
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "frequency" : "annual",
+      "id" : "delta_gold_flight",
+      "isCustom" : false,
+      "name" : "Delta Flight Credit (after $10K)",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "frequency" : "annual",
+      "id" : "delta_gold_stays",
+      "isCustom" : false,
+      "name" : "Delta Stays Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "frequency" : "annual",
+      "id" : "delta_plat_companion",
+      "isCustom" : false,
+      "name" : "Companion Certificate",
+      "value" : 400
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "frequency" : "monthly",
+      "id" : "delta_plat_resy",
+      "isCustom" : false,
+      "name" : "Resy Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "frequency" : "annual",
+      "id" : "delta_plat_stays",
+      "isCustom" : false,
+      "name" : "Delta Stays Credit",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "frequency" : "monthly",
+      "id" : "delta_plat_rideshare",
+      "isCustom" : false,
+      "name" : "Rideshare Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "frequency" : "annual",
+      "id" : "delta_reserve_companion",
+      "isCustom" : false,
+      "name" : "Companion Certificate",
+      "value" : 500
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "frequency" : "monthly",
+      "id" : "delta_reserve_resy",
+      "isCustom" : false,
+      "name" : "Resy Credit",
+      "value" : 20
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "frequency" : "annual",
+      "id" : "delta_reserve_stays",
+      "isCustom" : false,
+      "name" : "Delta Stays Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "frequency" : "monthly",
+      "id" : "delta_reserve_rideshare",
+      "isCustom" : false,
+      "name" : "Rideshare Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "frequency" : "annual",
+      "id" : "delta_reserve_skyclub",
+      "isCustom" : false,
+      "name" : "Sky Club Access",
+      "value" : 695
+    },
+    {
+      "cardCatalogID" : "citi_strata_elite",
+      "frequency" : "annual",
+      "id" : "citi_strata_elite_hotel",
+      "isCustom" : false,
+      "name" : "Hotel Benefit (2+ nights via Citi Travel)",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "citi_strata_elite",
+      "frequency" : "annual",
+      "id" : "citi_strata_elite_splurge",
+      "isCustom" : false,
+      "name" : "Splurge Credit (select brands)",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "citi_strata_elite",
+      "frequency" : "annual",
+      "id" : "citi_strata_elite_blacklane",
+      "isCustom" : false,
+      "name" : "Blacklane Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "citi_strata_elite",
+      "frequency" : "every4Years",
+      "id" : "citi_strata_elite_global_entry",
+      "isCustom" : false,
+      "name" : "Global Entry / TSA PreCheck",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "citi_aa_executive",
+      "frequency" : "annual",
+      "id" : "citi_aa_exec_admirals",
+      "isCustom" : false,
+      "name" : "Admirals Club Membership",
+      "value" : 650
+    },
+    {
+      "cardCatalogID" : "citi_aa_executive",
+      "frequency" : "annual",
+      "id" : "citi_aa_exec_avis",
+      "isCustom" : false,
+      "name" : "Avis/Budget Credit",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "citi_aa_executive",
+      "frequency" : "monthly",
+      "id" : "citi_aa_exec_lyft",
+      "isCustom" : false,
+      "name" : "Lyft Credit (3 rides/mo)",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "citi_aa_executive",
+      "frequency" : "monthly",
+      "id" : "citi_aa_exec_grubhub",
+      "isCustom" : false,
+      "name" : "Grubhub Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "citi_aa_platinum",
+      "frequency" : "annual",
+      "id" : "citi_aa_plat_discount",
+      "isCustom" : false,
+      "name" : "AA Flight Discount (after $20K)",
+      "value" : 125
+    },
+    {
+      "cardCatalogID" : "united_explorer",
+      "frequency" : "annual",
+      "id" : "united_explorer_hotel",
+      "isCustom" : false,
+      "name" : "Renowned Hotels Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "united_explorer",
+      "frequency" : "monthly",
+      "id" : "united_explorer_rideshare",
+      "isCustom" : false,
+      "name" : "Ride-Hailing Credit",
+      "value" : 5
+    },
+    {
+      "cardCatalogID" : "united_explorer",
+      "frequency" : "monthly",
+      "id" : "united_explorer_instacart",
+      "isCustom" : false,
+      "name" : "Instacart Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "united_explorer",
+      "frequency" : "annual",
+      "id" : "united_explorer_jsx",
+      "isCustom" : false,
+      "name" : "JSX Flight Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "united_explorer",
+      "frequency" : "annual",
+      "id" : "united_explorer_avis",
+      "isCustom" : false,
+      "name" : "Avis/Budget Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "frequency" : "annual",
+      "id" : "united_quest_travel",
+      "isCustom" : false,
+      "name" : "United TravelBank Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "frequency" : "annual",
+      "id" : "united_quest_hotel",
+      "isCustom" : false,
+      "name" : "Renowned Hotels Credit",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "frequency" : "annual",
+      "id" : "united_quest_jsx",
+      "isCustom" : false,
+      "name" : "JSX Flight Credit",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "frequency" : "monthly",
+      "id" : "united_quest_instacart",
+      "isCustom" : false,
+      "name" : "Instacart Credit",
+      "value" : 15
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "frequency" : "annual",
+      "id" : "united_quest_avis",
+      "isCustom" : false,
+      "name" : "Avis/Budget Credit",
+      "value" : 80
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "frequency" : "annual",
+      "id" : "united_quest_rideshare",
+      "isCustom" : false,
+      "name" : "Ride-Hailing Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "frequency" : "annual",
+      "id" : "uci_hotel",
+      "isCustom" : false,
+      "name" : "Renowned Hotels Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "frequency" : "monthly",
+      "id" : "uci_ridehail",
+      "isCustom" : false,
+      "name" : "Ride-Hailing Credit",
+      "value" : 12
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "frequency" : "monthly",
+      "id" : "uci_instacart",
+      "isCustom" : false,
+      "name" : "Instacart Credit",
+      "value" : 20
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "frequency" : "annual",
+      "id" : "uci_jsx",
+      "isCustom" : false,
+      "name" : "JSX Flight Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "instacart_mastercard",
+      "frequency" : "annual",
+      "id" : "instacart_mc_plus",
+      "isCustom" : false,
+      "name" : "Instacart+ Membership",
+      "value" : 99
+    },
+    {
+      "cardCatalogID" : "sw_priority",
+      "frequency" : "annual",
+      "id" : "sw_priority_anniversary",
+      "isCustom" : false,
+      "name" : "Anniversary Points (7,500)",
+      "value" : 112
+    },
+    {
+      "cardCatalogID" : "world_of_hyatt",
+      "frequency" : "annual",
+      "id" : "hyatt_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award (Cat 1-4)",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "frequency" : "annual",
+      "id" : "ritz_airline",
+      "isCustom" : false,
+      "name" : "Airline Incidental Credit",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "frequency" : "annual",
+      "id" : "ritz_hotel",
+      "isCustom" : false,
+      "name" : "Ritz-Carlton Hotel Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "frequency" : "annual",
+      "id" : "ritz_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award (85K, after renewal)",
+      "value" : 500
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "frequency" : "every4Years",
+      "id" : "ritz_global_entry",
+      "isCustom" : false,
+      "name" : "Global Entry / TSA PreCheck",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "marriott_boundless",
+      "frequency" : "annual",
+      "id" : "marriott_boundless_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award (35K)",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "marriott_bountiful",
+      "frequency" : "annual",
+      "id" : "marriott_bountiful_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award (50K)",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "hilton_surpass",
+      "frequency" : "quarterly",
+      "id" : "hilton_surpass_quarterly",
+      "isCustom" : false,
+      "name" : "Hilton Statement Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "bofa_premium_rewards",
+      "frequency" : "annual",
+      "id" : "bofa_pr_airline",
+      "isCustom" : false,
+      "name" : "Airline Incidental Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "wf_autograph_journey",
+      "frequency" : "annual",
+      "id" : "wf_autograph_journey_airline",
+      "isCustom" : false,
+      "name" : "Airline Credit (after $50+ qualifying)",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "usb_biz_triple_cash",
+      "frequency" : "annual",
+      "id" : "usb_triple_cash_software",
+      "isCustom" : false,
+      "name" : "Annual Software Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "sw_premier_business",
+      "frequency" : "annual",
+      "id" : "sw_biz_anniversary",
+      "isCustom" : false,
+      "name" : "Anniversary Points (6,000)",
+      "value" : 90
+    },
+    {
+      "cardCatalogID" : "marriott_bonvoy_business",
+      "frequency" : "annual",
+      "id" : "marriott_biz_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award (35K)",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "amex_business_gold",
+      "frequency" : "monthly",
+      "id" : "amex_biz_gold_flex",
+      "isCustom" : false,
+      "name" : "Flexible Business Credit (FedEx/Grubhub/Office)",
+      "value" : 20
+    },
+    {
+      "cardCatalogID" : "amex_business_gold",
+      "frequency" : "monthly",
+      "id" : "amex_biz_gold_walmart",
+      "isCustom" : false,
+      "name" : "Walmart+ Credit",
+      "value" : 12.95
+    },
+    {
+      "cardCatalogID" : "amex_business_gold",
+      "frequency" : "annual",
+      "id" : "amex_biz_gold_squarespace",
+      "isCustom" : false,
+      "name" : "Squarespace Credit",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "semiAnnual",
+      "id" : "amex_biz_plat_hotel",
+      "isCustom" : false,
+      "name" : "FHR/THC Hotel Credit",
+      "value" : 300
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "annual",
+      "id" : "amex_biz_plat_dell",
+      "isCustom" : false,
+      "name" : "Dell Technologies Credit",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "annual",
+      "id" : "amex_biz_plat_adobe",
+      "isCustom" : false,
+      "name" : "Adobe Credit (after $600 spend)",
+      "value" : 250
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "annual",
+      "id" : "amex_biz_plat_airline",
+      "isCustom" : false,
+      "name" : "Airline Fee Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "annual",
+      "id" : "amex_biz_plat_clear",
+      "isCustom" : false,
+      "name" : "CLEAR+ Credit",
+      "value" : 209
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "monthly",
+      "id" : "amex_biz_plat_wireless",
+      "isCustom" : false,
+      "name" : "Wireless Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "quarterly",
+      "id" : "amex_biz_plat_indeed",
+      "isCustom" : false,
+      "name" : "Indeed Credit",
+      "value" : 90
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "quarterly",
+      "id" : "amex_biz_plat_hilton",
+      "isCustom" : false,
+      "name" : "Hilton Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "frequency" : "every4Years",
+      "id" : "amex_biz_plat_global_entry",
+      "isCustom" : false,
+      "name" : "Global Entry / TSA PreCheck",
+      "value" : 120
+    },
+    {
+      "cardCatalogID" : "hilton_honors_business",
+      "frequency" : "quarterly",
+      "id" : "hilton_biz_resort",
+      "isCustom" : false,
+      "name" : "Hilton Resort Credit",
+      "value" : 60
+    },
+    {
+      "cardCatalogID" : "delta_biz_gold",
+      "frequency" : "annual",
+      "id" : "delta_biz_gold_flightcredit",
+      "isCustom" : false,
+      "name" : "Delta Flight Credit (after $10K)",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "delta_biz_platinum",
+      "frequency" : "annual",
+      "id" : "delta_biz_plat_companion",
+      "isCustom" : false,
+      "name" : "Companion Certificate",
+      "value" : 400
+    },
+    {
+      "cardCatalogID" : "delta_biz_reserve",
+      "frequency" : "annual",
+      "id" : "delta_biz_reserve_skyclub",
+      "isCustom" : false,
+      "name" : "Sky Club Access (15 visits)",
+      "value" : 450
+    },
+    {
+      "cardCatalogID" : "delta_biz_reserve",
+      "frequency" : "annual",
+      "id" : "delta_biz_reserve_companion",
+      "isCustom" : false,
+      "name" : "Companion Certificate (First/Comfort+)",
+      "value" : 500
+    },
+    {
+      "cardCatalogID" : "delta_biz_reserve",
+      "frequency" : "monthly",
+      "id" : "delta_biz_reserve_resy",
+      "isCustom" : false,
+      "name" : "Resy Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "delta_biz_reserve",
+      "frequency" : "annual",
+      "id" : "delta_biz_reserve_stays",
+      "isCustom" : false,
+      "name" : "Delta Stays Credit",
+      "value" : 250
+    },
+    {
+      "cardCatalogID" : "delta_biz_reserve",
+      "frequency" : "monthly",
+      "id" : "delta_biz_reserve_rideshare",
+      "isCustom" : false,
+      "name" : "Rideshare Credit",
+      "value" : 10
+    },
+    {
+      "cardCatalogID" : "ihg_premier_business",
+      "frequency" : "annual",
+      "id" : "ihg_biz_freenight",
+      "isCustom" : false,
+      "name" : "Free Night Award",
+      "value" : 150
+    },
+    {
+      "cardCatalogID" : "bilt_obsidian",
+      "frequency" : "semiAnnual",
+      "id" : "bilt_obsidian_hotel",
+      "isCustom" : false,
+      "name" : "Bilt Travel Hotel Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "bilt_palladium",
+      "frequency" : "semiAnnual",
+      "id" : "bilt_palladium_hotel",
+      "isCustom" : false,
+      "name" : "Bilt Travel Hotel Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "bilt_palladium",
+      "frequency" : "annual",
+      "id" : "bilt_palladium_cash",
+      "isCustom" : false,
+      "name" : "Bilt Cash",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "ca_amex_platinum",
+      "frequency" : "annual",
+      "id" : "ca_amex_platinum_travel",
+      "isCustom" : false,
+      "name" : "Annual Travel Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "ca_amex_platinum",
+      "frequency" : "annual",
+      "id" : "ca_amex_platinum_dining",
+      "isCustom" : false,
+      "name" : "Annual Dining Credit",
+      "value" : 200
+    },
+    {
+      "cardCatalogID" : "ca_amex_platinum",
+      "frequency" : "every4Years",
+      "id" : "ca_amex_platinum_nexus",
+      "isCustom" : false,
+      "name" : "NEXUS Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "ca_amex_gold_rewards",
+      "frequency" : "annual",
+      "id" : "ca_amex_gold_travel",
+      "isCustom" : false,
+      "name" : "Annual Travel Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "ca_amex_gold_rewards",
+      "frequency" : "every4Years",
+      "id" : "ca_amex_gold_nexus",
+      "isCustom" : false,
+      "name" : "NEXUS Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "ca_td_first_class_travel_vi",
+      "frequency" : "annual",
+      "id" : "ca_td_first_class_travel_credit",
+      "isCustom" : false,
+      "name" : "TD Travel Credit",
+      "value" : 100
+    },
+    {
+      "cardCatalogID" : "ca_bmo_eclipse_vi",
+      "frequency" : "annual",
+      "id" : "ca_bmo_eclipse_lifestyle",
+      "isCustom" : false,
+      "name" : "Anniversary Lifestyle Credit",
+      "value" : 50
+    },
+    {
+      "cardCatalogID" : "ca_rbc_westjet_we",
+      "frequency" : "annual",
+      "id" : "ca_westjet_companion",
+      "isCustom" : false,
+      "name" : "Companion Voucher",
+      "value" : 100
+    }
+  ],
+  "cards" : [
+    {
+      "annualFee" : 325,
+      "chipColor" : "#FDE68A",
+      "id" : "amex_gold",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_gold.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amex Gold",
+      "subtitle" : "4% Dining",
+      "thumbnailColors" : [
+        "#FACC15",
+        "#D97706"
+      ]
+    },
+    {
+      "annualFee" : 895,
+      "chipColor" : "#F3F4F6",
+      "id" : "amex_platinum",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_platinum.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amex Platinum",
+      "subtitle" : "5x Flights (Amex Travel)",
+      "thumbnailColors" : [
+        "#E5E7EB",
+        "#CBD5E1"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#BBF7D0",
+      "id" : "amex_green",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_green.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amex Green",
+      "subtitle" : "3x Travel/Transit/Dining",
+      "thumbnailColors" : [
+        "#34D399",
+        "#059669"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#BFDBFE",
+      "id" : "amex_bcp",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_bcp.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Blue Cash Preferred",
+      "subtitle" : "6% Groceries",
+      "thumbnailColors" : [
+        "#2563EB",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E0F2FE",
+      "id" : "amex_bce",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_bce.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Blue Cash Everyday",
+      "subtitle" : "3% Grocery/Gas/Online",
+      "thumbnailColors" : [
+        "#38BDF8",
+        "#0EA5E9"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#BFDBFE",
+      "id" : "chase_sapphire_preferred",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/chase_sapphire_preferred.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Sapphire Preferred",
+      "subtitle" : "3x Dining, 5x Chase Travel",
+      "thumbnailColors" : [
+        "#3B82F6",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 795,
+      "chipColor" : "#93C5FD",
+      "id" : "chase_sapphire_reserve",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/chase_sapphire_reserve.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Sapphire Reserve",
+      "subtitle" : "4x Flights/Hotels, 3x Dining",
+      "thumbnailColors" : [
+        "#111827",
+        "#1F2937"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "chase_freedom_unlimited",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/chase_freedom_unlimited.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Freedom Unlimited",
+      "subtitle" : "1.5% Everything",
+      "thumbnailColors" : [
+        "#0F172A",
+        "#1E293B"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "chase_freedom_flex",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/chase_freedom_flex.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Freedom Flex",
+      "subtitle" : "5% Rotating + 3% Dining",
+      "thumbnailColors" : [
+        "#1E40AF",
+        "#0F172A"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E0F2FE",
+      "id" : "chase_freedom_rise",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/chase_freedom_rise.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Freedom Rise",
+      "subtitle" : "1.5% Everything",
+      "thumbnailColors" : [
+        "#0EA5E9",
+        "#0284C7"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FED7AA",
+      "id" : "discover_it_miles",
+      "isCustom" : false,
+      "issuer" : "Discover",
+      "name" : "Discover it Miles",
+      "subtitle" : "1.5x Miles (First-Year Match)",
+      "thumbnailColors" : [
+        "#F97316",
+        "#EA580C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDBA74",
+      "id" : "discover_it",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/discover_it.png",
+      "isCustom" : false,
+      "issuer" : "Discover",
+      "name" : "Discover it Cash Back",
+      "subtitle" : "5% Rotating Categories",
+      "thumbnailColors" : [
+        "#F97316",
+        "#EA580C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "prime_visa",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/prime_visa.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Prime Visa",
+      "subtitle" : "5% Amazon/WF/Chase Travel",
+      "thumbnailColors" : [
+        "#2563EB",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E0F2FE",
+      "id" : "amazon_visa",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amazon_visa.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Amazon Visa",
+      "subtitle" : "3% Amazon & Whole Foods",
+      "thumbnailColors" : [
+        "#0EA5E9",
+        "#0284C7"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#CBD5E1",
+      "id" : "chase_slate_edge",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Slate Edge",
+      "subtitle" : "Intro APR / Balance Transfer",
+      "thumbnailColors" : [
+        "#475569",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FED7AA",
+      "id" : "instacart_mastercard",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Instacart Mastercard",
+      "subtitle" : "5% Instacart/Chase Travel",
+      "thumbnailColors" : [
+        "#FF7009",
+        "#EA580C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "ink_business_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ink_business_cash.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Ink Business Cash",
+      "subtitle" : "5% Office/Internet/Phone",
+      "thumbnailColors" : [
+        "#111827",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E2E8F0",
+      "id" : "ink_business_unlimited",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ink_business_unlimited.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Ink Business Unlimited",
+      "subtitle" : "1.5% Everything",
+      "thumbnailColors" : [
+        "#0F172A",
+        "#1F2937"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#BFDBFE",
+      "id" : "ink_business_preferred",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ink_business_preferred.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Ink Business Preferred",
+      "subtitle" : "3% Travel/Online/Shipping",
+      "thumbnailColors" : [
+        "#1D4ED8",
+        "#1E40AF"
+      ]
+    },
+    {
+      "annualFee" : 375,
+      "chipColor" : "#FDE68A",
+      "id" : "amex_business_gold",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_business_gold.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amex Business Gold",
+      "subtitle" : "4% Top 2 Categories",
+      "thumbnailColors" : [
+        "#FACC15",
+        "#D97706"
+      ]
+    },
+    {
+      "annualFee" : 895,
+      "chipColor" : "#F3F4F6",
+      "id" : "amex_business_platinum",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_business_platinum.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amex Business Platinum",
+      "subtitle" : "5x Amex Travel, 2x Biz Categories",
+      "thumbnailColors" : [
+        "#E5E7EB",
+        "#CBD5E1"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E0F2FE",
+      "id" : "blue_business_plus",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/blue_business_plus.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Blue Business Plus",
+      "subtitle" : "2% Everything",
+      "thumbnailColors" : [
+        "#38BDF8",
+        "#0EA5E9"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "blue_business_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/blue_business_cash.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Blue Business Cash",
+      "subtitle" : "2% Everything",
+      "thumbnailColors" : [
+        "#60A5FA",
+        "#2563EB"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "delta_blue",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_blue.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Blue",
+      "subtitle" : "2% Delta & Dining",
+      "thumbnailColors" : [
+        "#3B82F6",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#FDE68A",
+      "id" : "delta_gold",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_gold.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Gold",
+      "subtitle" : "2% Delta/Dining/Grocery",
+      "thumbnailColors" : [
+        "#F59E0B",
+        "#D97706"
+      ]
+    },
+    {
+      "annualFee" : 350,
+      "chipColor" : "#E5E7EB",
+      "id" : "delta_platinum",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_platinum.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Platinum",
+      "subtitle" : "3% Delta/Hotels",
+      "thumbnailColors" : [
+        "#9CA3AF",
+        "#6B7280"
+      ]
+    },
+    {
+      "annualFee" : 650,
+      "chipColor" : "#93C5FD",
+      "id" : "delta_reserve",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_reserve.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Reserve",
+      "subtitle" : "3% Delta Purchases",
+      "thumbnailColors" : [
+        "#111827",
+        "#0F172A"
+      ]
+    },
+    {
+      "annualFee" : 395,
+      "chipColor" : "#FDE68A",
+      "id" : "venture_x",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/venture_x.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Venture X",
+      "subtitle" : "10x Hotels/Cars, 5x Flights (C1)",
+      "thumbnailColors" : [
+        "#1E293B",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#E5E7EB",
+      "id" : "venture",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/venture.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Venture",
+      "subtitle" : "2% Everything",
+      "thumbnailColors" : [
+        "#1F2937",
+        "#374151"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#A7F3D0",
+      "id" : "savor_one",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/savor_one.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Savor",
+      "subtitle" : "3% Dining & Grocery",
+      "thumbnailColors" : [
+        "#059669",
+        "#047857"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E2E8F0",
+      "id" : "quicksilver",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/quicksilver.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Quicksilver",
+      "subtitle" : "1.5% Everything",
+      "thumbnailColors" : [
+        "#64748B",
+        "#475569"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E2E8F0",
+      "id" : "venture_one",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One VentureOne",
+      "subtitle" : "1.25x Miles / 5x C1 Travel",
+      "thumbnailColors" : [
+        "#334155",
+        "#475569"
+      ]
+    },
+    {
+      "annualFee" : 39,
+      "chipColor" : "#F3F4F6",
+      "id" : "quicksilver_one",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One QuicksilverOne",
+      "subtitle" : "1.5% Everything (Fair Credit)",
+      "thumbnailColors" : [
+        "#9CA3AF",
+        "#6B7280"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E5E7EB",
+      "id" : "capital_one_platinum",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Platinum",
+      "subtitle" : "Credit Building (No Rewards)",
+      "thumbnailColors" : [
+        "#94A3B8",
+        "#64748B"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "citi_double_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_double_cash.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi Double Cash",
+      "subtitle" : "2% Everything",
+      "thumbnailColors" : [
+        "#1E40AF",
+        "#1E3A8A"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#DDD6FE",
+      "id" : "citi_custom_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_custom_cash.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi Custom Cash",
+      "subtitle" : "5% Top Category",
+      "thumbnailColors" : [
+        "#7C3AED",
+        "#6D28D9"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "wf_active_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/wf_active_cash.png",
+      "isCustom" : false,
+      "issuer" : "Wells Fargo",
+      "name" : "Wells Fargo Active Cash",
+      "subtitle" : "2% Everything",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#B91C1C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FCA5A5",
+      "id" : "wf_autograph",
+      "isCustom" : false,
+      "issuer" : "Wells Fargo",
+      "name" : "Wells Fargo Autograph",
+      "subtitle" : "3x Dining/Travel/Gas/Transit",
+      "thumbnailColors" : [
+        "#7F1D1D",
+        "#991B1B"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#FECACA",
+      "id" : "wf_autograph_journey",
+      "isCustom" : false,
+      "issuer" : "Wells Fargo",
+      "name" : "Wells Fargo Autograph Journey",
+      "subtitle" : "5x Hotels / 4x Airlines / 3x Dining",
+      "thumbnailColors" : [
+        "#7F1D1D",
+        "#450A0A"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "usb_cash_plus",
+      "isCustom" : false,
+      "issuer" : "US Bank",
+      "name" : "US Bank Cash+",
+      "subtitle" : "5% Choice / 2% Everyday",
+      "thumbnailColors" : [
+        "#1E40AF",
+        "#1E3A8A"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BAE6FD",
+      "id" : "usb_altitude_go",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/usb_altitude_go.png",
+      "isCustom" : false,
+      "issuer" : "US Bank",
+      "name" : "US Bank Altitude Go",
+      "subtitle" : "4% Dining",
+      "thumbnailColors" : [
+        "#0369A1",
+        "#075985"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#93C5FD",
+      "id" : "citi_strata_premier",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_strata_premier.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi Strata Premier",
+      "subtitle" : "3x Travel/Dining/Grocery/Gas",
+      "thumbnailColors" : [
+        "#1E3A8A",
+        "#1E40AF"
+      ]
+    },
+    {
+      "annualFee" : 495,
+      "chipColor" : "#D1A85E",
+      "id" : "citi_strata_elite",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi Strata Elite",
+      "subtitle" : "12x Citi Travel / 6x Dining",
+      "thumbnailColors" : [
+        "#0F172A",
+        "#1F2937"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "citi_strata",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi Strata",
+      "subtitle" : "5x Citi Travel / 3x Grocery/Gas",
+      "thumbnailColors" : [
+        "#2563EB",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#CBD5E1",
+      "id" : "citi_simplicity",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi Simplicity",
+      "subtitle" : "Intro APR / No Late Fees",
+      "thumbnailColors" : [
+        "#475569",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BAE6FD",
+      "id" : "paypal_cashback",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/paypal_cashback.png",
+      "isCustom" : false,
+      "issuer" : "PayPal",
+      "name" : "PayPal Cashback Mastercard",
+      "subtitle" : "3% PayPal, 1.5% Everything",
+      "thumbnailColors" : [
+        "#0070BA",
+        "#003087"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#FED7AA",
+      "id" : "marriott_boundless",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/marriott_boundless.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Marriott Bonvoy Boundless",
+      "subtitle" : "6% Marriott Hotels",
+      "thumbnailColors" : [
+        "#7C2D12",
+        "#9A3412"
+      ]
+    },
+    {
+      "annualFee" : 450,
+      "chipColor" : "#D4AF37",
+      "id" : "chase_ritz_carlton",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/chase_ritz_carlton.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Ritz-Carlton",
+      "subtitle" : "6x Marriott, $300 Travel Credit",
+      "thumbnailColors" : [
+        "#1C1917",
+        "#292524"
+      ]
+    },
+    {
+      "annualFee" : 650,
+      "chipColor" : "#D6D3D1",
+      "id" : "marriott_brilliant",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/marriott_brilliant.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Marriott Bonvoy Brilliant",
+      "subtitle" : "6% Marriott Hotels",
+      "thumbnailColors" : [
+        "#44403C",
+        "#292524"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "hilton_honors",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/hilton_honors.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Hilton Honors Amex",
+      "subtitle" : "7x Hilton, 5x Dining/Grocery/Gas",
+      "thumbnailColors" : [
+        "#1D4ED8",
+        "#1E3A8A"
+      ]
+    },
+    {
+      "annualFee" : 550,
+      "chipColor" : "#FDE68A",
+      "id" : "hilton_aspire",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/hilton_aspire.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Hilton Honors Aspire",
+      "subtitle" : "14% Hilton, 7% Dining",
+      "thumbnailColors" : [
+        "#1F2937",
+        "#111827"
+      ]
+    },
+    {
+      "annualFee" : 99,
+      "chipColor" : "#A7F3D0",
+      "id" : "ihg_premier",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ihg_premier.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "IHG One Rewards Premier",
+      "subtitle" : "10% IHG Hotels",
+      "thumbnailColors" : [
+        "#065F46",
+        "#047857"
+      ]
+    },
+    {
+      "annualFee" : 250,
+      "chipColor" : "#FBBF24",
+      "id" : "marriott_bountiful",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/marriott_bountiful.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Marriott Bonvoy Bountiful",
+      "subtitle" : "6% Marriott, 4% Dining/Grocery",
+      "thumbnailColors" : [
+        "#7C2D12",
+        "#B45309"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FCA5A5",
+      "id" : "marriott_bold",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/marriott_bold.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Marriott Bonvoy Bold",
+      "subtitle" : "3% Marriott, No AF",
+      "thumbnailColors" : [
+        "#991B1B",
+        "#7C2D12"
+      ]
+    },
+    {
+      "annualFee" : 99,
+      "chipColor" : "#93C5FD",
+      "id" : "citi_aa_platinum",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_aa_platinum.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi AAdvantage Platinum Select",
+      "subtitle" : "2x Dining/Gas/AA",
+      "thumbnailColors" : [
+        "#1E3A8A",
+        "#1E40AF"
+      ]
+    },
+    {
+      "annualFee" : 695,
+      "chipColor" : "#E5E7EB",
+      "id" : "citi_aa_executive",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_aa_executive.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi AAdvantage Executive",
+      "subtitle" : "4x AA + Admirals Club",
+      "thumbnailColors" : [
+        "#111827",
+        "#1F2937"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#C7D2FE",
+      "id" : "united_explorer",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/united_explorer.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "United Explorer",
+      "subtitle" : "2x United/Dining/Hotels",
+      "thumbnailColors" : [
+        "#1E3A8A",
+        "#312E81"
+      ]
+    },
+    {
+      "annualFee" : 350,
+      "chipColor" : "#A5B4FC",
+      "id" : "united_quest",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/united_quest.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "United Quest",
+      "subtitle" : "3x United, 2x Travel/Dining",
+      "thumbnailColors" : [
+        "#312E81",
+        "#1E1B4B"
+      ]
+    },
+    {
+      "annualFee" : 695,
+      "chipColor" : "#818CF8",
+      "id" : "united_club_infinite",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/united_club_infinite.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "United Club Infinite",
+      "subtitle" : "4x United + Club Access",
+      "thumbnailColors" : [
+        "#0F172A",
+        "#1E1B4B"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#FECACA",
+      "id" : "chase_aeroplan",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Aeroplan",
+      "subtitle" : "3x Air Canada/Dining/Grocery",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#991B1B"
+      ]
+    },
+    {
+      "annualFee" : 229,
+      "chipColor" : "#FDE68A",
+      "id" : "sw_priority",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/sw_priority.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Southwest Priority",
+      "subtitle" : "4x SW, 2x Dining/Gas",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#B91C1C"
+      ]
+    },
+    {
+      "annualFee" : 99,
+      "chipColor" : "#FEE2E2",
+      "id" : "sw_plus",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/sw_plus.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Southwest Plus",
+      "subtitle" : "2x SW/Grocery/Gas",
+      "thumbnailColors" : [
+        "#EF4444",
+        "#DC2626"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#DDD6FE",
+      "id" : "world_of_hyatt",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/world_of_hyatt.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "World of Hyatt",
+      "subtitle" : "4x Hyatt, 2x Dining",
+      "thumbnailColors" : [
+        "#7C3AED",
+        "#6D28D9"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#6EE7B7",
+      "id" : "ihg_traveler",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ihg_traveler.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "IHG One Rewards Traveler",
+      "subtitle" : "17x IHG, No AF",
+      "thumbnailColors" : [
+        "#065F46",
+        "#059669"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "bilt_blue",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bilt_blue.png",
+      "isCustom" : false,
+      "issuer" : "Bilt",
+      "name" : "Bilt Blue",
+      "subtitle" : "1x Everything + Rent, No AF",
+      "thumbnailColors" : [
+        "#3B82F6",
+        "#2563EB"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#F3F4F6",
+      "id" : "bilt_obsidian",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bilt_obsidian.png",
+      "isCustom" : false,
+      "issuer" : "Bilt",
+      "name" : "Bilt Obsidian",
+      "subtitle" : "3x Dining, 2x Travel + Rent",
+      "thumbnailColors" : [
+        "#111827",
+        "#1F2937"
+      ]
+    },
+    {
+      "annualFee" : 495,
+      "chipColor" : "#D6D3D1",
+      "id" : "bilt_palladium",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bilt_palladium.png",
+      "isCustom" : false,
+      "issuer" : "Bilt",
+      "name" : "Bilt Palladium",
+      "subtitle" : "2x Everything + Rent",
+      "thumbnailColors" : [
+        "#78716C",
+        "#57534E"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#93C5FD",
+      "id" : "hilton_surpass",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/hilton_surpass.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Hilton Honors Surpass",
+      "subtitle" : "12x Hilton, 6x Dining/Grocery",
+      "thumbnailColors" : [
+        "#1E40AF",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#FCA5A5",
+      "id" : "bofa_premium_rewards",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bofa_premium_rewards.png",
+      "isCustom" : false,
+      "issuer" : "Bank of America",
+      "name" : "BofA Premium Rewards",
+      "subtitle" : "2x Travel/Dining",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#991B1B"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FCA5A5",
+      "id" : "bofa_travel_rewards",
+      "isCustom" : false,
+      "issuer" : "Bank of America",
+      "name" : "BofA Travel Rewards",
+      "subtitle" : "1.5x Everything",
+      "thumbnailColors" : [
+        "#991B1B",
+        "#7F1D1D"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "bofa_customized_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bofa_customized_cash.png",
+      "isCustom" : false,
+      "issuer" : "Bank of America",
+      "name" : "BofA Customized Cash",
+      "subtitle" : "3% Choice Category",
+      "thumbnailColors" : [
+        "#B91C1C",
+        "#7F1D1D"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#F59E0B",
+      "id" : "spark_cash_plus",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/spark_cash_plus.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Spark Cash Plus",
+      "subtitle" : "2% Everything (Charge Card)",
+      "thumbnailColors" : [
+        "#1F2937",
+        "#374151"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#E5E7EB",
+      "id" : "spark_miles",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/spark_miles.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Spark Miles",
+      "subtitle" : "2x Miles Everything",
+      "thumbnailColors" : [
+        "#1E293B",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#E2E8F0",
+      "id" : "spark_cash_select",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/spark_cash_select.png",
+      "isCustom" : false,
+      "issuer" : "Capital One",
+      "name" : "Capital One Spark Cash Select",
+      "subtitle" : "1.5% Everything",
+      "thumbnailColors" : [
+        "#64748B",
+        "#475569"
+      ]
+    },
+    {
+      "annualFee" : 195,
+      "chipColor" : "#FDE68A",
+      "id" : "ink_business_premier",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ink_business_premier.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "Chase Ink Business Premier",
+      "subtitle" : "2.5% Large Purchases",
+      "thumbnailColors" : [
+        "#111827",
+        "#1F2937"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "bofa_biz_customized_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bofa_biz_customized_cash.png",
+      "isCustom" : false,
+      "issuer" : "Bank of America",
+      "name" : "BofA Business Customized Cash",
+      "subtitle" : "3% Choice Category",
+      "thumbnailColors" : [
+        "#B91C1C",
+        "#7F1D1D"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BAE6FD",
+      "id" : "usb_biz_triple_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/usb_biz_triple_cash.png",
+      "isCustom" : false,
+      "issuer" : "US Bank",
+      "name" : "US Bank Business Triple Cash",
+      "subtitle" : "3% Gas/Dining/Office/Phone",
+      "thumbnailColors" : [
+        "#0369A1",
+        "#075985"
+      ]
+    },
+    {
+      "annualFee" : 99,
+      "chipColor" : "#93C5FD",
+      "id" : "citi_aa_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_aa_business.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Citi AAdvantage Business",
+      "subtitle" : "2x AA/Gas/Telecom",
+      "thumbnailColors" : [
+        "#1E3A8A",
+        "#1E40AF"
+      ]
+    },
+    {
+      "annualFee" : 149,
+      "chipColor" : "#FDE68A",
+      "id" : "sw_premier_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/sw_premier_business.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "SW Premier Business",
+      "subtitle" : "3x SW, 2x Dining/Gas",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#B91C1C"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#C7D2FE",
+      "id" : "united_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/united_business.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "United Business Card",
+      "subtitle" : "2x United/Dining/Gas/Office",
+      "thumbnailColors" : [
+        "#1E3A8A",
+        "#312E81"
+      ]
+    },
+    {
+      "annualFee" : 125,
+      "chipColor" : "#FED7AA",
+      "id" : "marriott_bonvoy_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/marriott_bonvoy_business.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Marriott Bonvoy Business",
+      "subtitle" : "6x Marriott, 4x Dining/Gas",
+      "thumbnailColors" : [
+        "#7C2D12",
+        "#9A3412"
+      ]
+    },
+    {
+      "annualFee" : 195,
+      "chipColor" : "#BFDBFE",
+      "id" : "hilton_honors_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/hilton_honors_business.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Hilton Honors Business",
+      "subtitle" : "12x Hilton, 5x Everything",
+      "thumbnailColors" : [
+        "#1D4ED8",
+        "#1E3A8A"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#FDE68A",
+      "id" : "delta_biz_gold",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_biz_gold.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Business Gold",
+      "subtitle" : "2x Delta/Dining/Shipping",
+      "thumbnailColors" : [
+        "#F59E0B",
+        "#D97706"
+      ]
+    },
+    {
+      "annualFee" : 350,
+      "chipColor" : "#E5E7EB",
+      "id" : "delta_biz_platinum",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_biz_platinum.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Business Platinum",
+      "subtitle" : "3x Delta/Hotels",
+      "thumbnailColors" : [
+        "#9CA3AF",
+        "#6B7280"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#BBF7D0",
+      "id" : "amex_business_green",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amex_business_green.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amex Business Green",
+      "subtitle" : "2x Amex Travel",
+      "thumbnailColors" : [
+        "#34D399",
+        "#059669"
+      ]
+    },
+    {
+      "annualFee" : 650,
+      "chipColor" : "#93C5FD",
+      "id" : "delta_biz_reserve",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/delta_biz_reserve.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Delta SkyMiles Business Reserve",
+      "subtitle" : "3x Delta + Sky Club",
+      "thumbnailColors" : [
+        "#111827",
+        "#0F172A"
+      ]
+    },
+    {
+      "annualFee" : 99,
+      "chipColor" : "#A7F3D0",
+      "id" : "ihg_premier_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/ihg_premier_business.png",
+      "isCustom" : false,
+      "issuer" : "Chase",
+      "name" : "IHG One Rewards Premier Business",
+      "subtitle" : "10x IHG, 5x Travel/Dining/Gas",
+      "thumbnailColors" : [
+        "#065F46",
+        "#047857"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "amazon_business_prime",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/amazon_business_prime.png",
+      "isCustom" : false,
+      "issuer" : "Amex",
+      "name" : "Amazon Business Prime Card",
+      "subtitle" : "5% Amazon/AWS/Whole Foods",
+      "thumbnailColors" : [
+        "#1F2937",
+        "#F59E0B"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "costco_business",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/costco_business.png",
+      "isCustom" : false,
+      "issuer" : "Citi",
+      "name" : "Costco Anywhere Visa Business",
+      "subtitle" : "5% Costco Gas, 3% Dining/Travel",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#1E40AF"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BFDBFE",
+      "id" : "sams_club_business",
+      "isCustom" : false,
+      "issuer" : "Synchrony",
+      "name" : "Sam's Club Business Mastercard",
+      "subtitle" : "5% Gas, 3% Dining",
+      "thumbnailColors" : [
+        "#1D4ED8",
+        "#0369A1"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "wf_signify_business_cash",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/wf_signify_business_cash.png",
+      "isCustom" : false,
+      "issuer" : "Wells Fargo",
+      "name" : "WF Signify Business Cash",
+      "subtitle" : "2% Everything",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#B91C1C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FCA5A5",
+      "id" : "bofa_biz_travel",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/bofa_biz_travel.png",
+      "isCustom" : false,
+      "issuer" : "Bank of America",
+      "name" : "BofA Business Advantage Travel",
+      "subtitle" : "1.5x Everything",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#991B1B"
+      ]
+    },
+    {
+      "annualFee" : 95,
+      "chipColor" : "#BAE6FD",
+      "id" : "usb_biz_leverage",
+      "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/usb_biz_leverage.png",
+      "isCustom" : false,
+      "issuer" : "US Bank",
+      "name" : "US Bank Business Leverage",
+      "subtitle" : "2x Top 2 Categories",
+      "thumbnailColors" : [
+        "#0369A1",
+        "#075985"
+      ]
+    },
+    {
+      "annualFee" : 48,
+      "chipColor" : "#FBBF24",
+      "id" : "ca_rbc_ion_plus",
+      "isCustom" : false,
+      "issuer" : "RBC Royal Bank",
+      "name" : "RBC ION+ Visa",
+      "subtitle" : "3x Grocery/Dining/Gas",
+      "thumbnailColors" : [
+        "#0F766E",
+        "#0D9488"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_rbc_ion",
+      "isCustom" : false,
+      "issuer" : "RBC Royal Bank",
+      "name" : "RBC ION Visa",
+      "subtitle" : "1.5x Essentials, No AF",
+      "thumbnailColors" : [
+        "#2563EB",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 120,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_rbc_avion_vi",
+      "isCustom" : false,
+      "issuer" : "RBC Royal Bank",
+      "name" : "RBC Avion Visa Infinite",
+      "subtitle" : "1.25x Travel",
+      "thumbnailColors" : [
+        "#1E3A8A",
+        "#2563EB"
+      ]
+    },
+    {
+      "annualFee" : 119,
+      "chipColor" : "#BFDBFE",
+      "id" : "ca_rbc_westjet_we",
+      "isCustom" : false,
+      "issuer" : "RBC Royal Bank",
+      "name" : "WestJet RBC World Elite Mastercard",
+      "subtitle" : "2x WestJet",
+      "thumbnailColors" : [
+        "#0F172A",
+        "#1D4ED8"
+      ]
+    },
+    {
+      "annualFee" : 139,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_td_first_class_travel_vi",
+      "isCustom" : false,
+      "issuer" : "TD",
+      "name" : "TD First Class Travel Visa Infinite",
+      "subtitle" : "8x Expedia for TD",
+      "thumbnailColors" : [
+        "#064E3B",
+        "#16A34A"
+      ]
+    },
+    {
+      "annualFee" : 139,
+      "chipColor" : "#D1D5DB",
+      "id" : "ca_td_aeroplan_vi",
+      "isCustom" : false,
+      "issuer" : "TD",
+      "name" : "TD Aeroplan Visa Infinite",
+      "subtitle" : "1.5x Air Canada/Grocery/Gas",
+      "thumbnailColors" : [
+        "#0F172A",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 139,
+      "chipColor" : "#BBF7D0",
+      "id" : "ca_td_cash_back_vi",
+      "isCustom" : false,
+      "issuer" : "TD",
+      "name" : "TD Cash Back Visa Infinite",
+      "subtitle" : "3% Grocery/Gas/Bills",
+      "thumbnailColors" : [
+        "#047857",
+        "#22C55E"
+      ]
+    },
+    {
+      "annualFee" : 120,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_scotia_gold_amex",
+      "isCustom" : false,
+      "issuer" : "Scotiabank",
+      "name" : "Scotiabank Gold American Express",
+      "subtitle" : "6x Grocery, No FX",
+      "thumbnailColors" : [
+        "#7C3AED",
+        "#DB2777"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_scotia_passport_vi",
+      "isCustom" : false,
+      "issuer" : "Scotiabank",
+      "name" : "Scotiabank Passport Visa Infinite",
+      "subtitle" : "3x Scene+, No FX",
+      "thumbnailColors" : [
+        "#111827",
+        "#475569"
+      ]
+    },
+    {
+      "annualFee" : 120,
+      "chipColor" : "#FECACA",
+      "id" : "ca_scotia_momentum_vi",
+      "isCustom" : false,
+      "issuer" : "Scotiabank",
+      "name" : "Scotia Momentum Visa Infinite",
+      "subtitle" : "4% Grocery/Bills",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#B91C1C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_scotia_amex",
+      "isCustom" : false,
+      "issuer" : "Scotiabank",
+      "name" : "Scotiabank American Express",
+      "subtitle" : "3x Grocery, No AF",
+      "thumbnailColors" : [
+        "#EF4444",
+        "#F97316"
+      ]
+    },
+    {
+      "annualFee" : 120,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_bmo_eclipse_vi",
+      "isCustom" : false,
+      "issuer" : "BMO",
+      "name" : "BMO eclipse Visa Infinite",
+      "subtitle" : "5x Grocery/Dining/Gas",
+      "thumbnailColors" : [
+        "#0EA5E9",
+        "#2563EB"
+      ]
+    },
+    {
+      "annualFee" : 150,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_bmo_ascend_we",
+      "isCustom" : false,
+      "issuer" : "BMO",
+      "name" : "BMO Ascend World Elite Mastercard",
+      "subtitle" : "5x Travel, 4 Lounge Visits",
+      "thumbnailColors" : [
+        "#1E293B",
+        "#334155"
+      ]
+    },
+    {
+      "annualFee" : 120,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_bmo_cashback_we",
+      "isCustom" : false,
+      "issuer" : "BMO",
+      "name" : "BMO CashBack World Elite Mastercard",
+      "subtitle" : "5% Grocery",
+      "thumbnailColors" : [
+        "#0F766E",
+        "#14B8A6"
+      ]
+    },
+    {
+      "annualFee" : 120,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_cibc_dividend_vi",
+      "isCustom" : false,
+      "issuer" : "CIBC",
+      "name" : "CIBC Dividend Visa Infinite",
+      "subtitle" : "4% Grocery/Gas",
+      "thumbnailColors" : [
+        "#7C2D12",
+        "#B45309"
+      ]
+    },
+    {
+      "annualFee" : 139,
+      "chipColor" : "#DDD6FE",
+      "id" : "ca_cibc_aventura_vi",
+      "isCustom" : false,
+      "issuer" : "CIBC",
+      "name" : "CIBC Aventura Visa Infinite",
+      "subtitle" : "1.5x Grocery/Gas",
+      "thumbnailColors" : [
+        "#7C3AED",
+        "#6D28D9"
+      ]
+    },
+    {
+      "annualFee" : 139,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_cibc_aeroplan_vi",
+      "isCustom" : false,
+      "issuer" : "CIBC",
+      "name" : "CIBC Aeroplan Visa Infinite",
+      "subtitle" : "1.5x Air Canada/Grocery/Gas",
+      "thumbnailColors" : [
+        "#111827",
+        "#374151"
+      ]
+    },
+    {
+      "annualFee" : 155.88,
+      "chipColor" : "#E0F2FE",
+      "id" : "ca_amex_cobalt",
+      "isCustom" : false,
+      "issuer" : "American Express",
+      "name" : "American Express Cobalt",
+      "subtitle" : "5x Eats/Grocery",
+      "thumbnailColors" : [
+        "#0891B2",
+        "#06B6D4"
+      ]
+    },
+    {
+      "annualFee" : 250,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_amex_gold_rewards",
+      "isCustom" : false,
+      "issuer" : "American Express",
+      "name" : "American Express Gold Rewards",
+      "subtitle" : "2x Travel/Gas/Grocery",
+      "thumbnailColors" : [
+        "#FACC15",
+        "#D97706"
+      ]
+    },
+    {
+      "annualFee" : 799,
+      "chipColor" : "#F3F4F6",
+      "id" : "ca_amex_platinum",
+      "isCustom" : false,
+      "issuer" : "American Express",
+      "name" : "American Express Platinum Canada",
+      "subtitle" : "2x Travel/Dining",
+      "thumbnailColors" : [
+        "#E5E7EB",
+        "#CBD5E1"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_tangerine_money_back",
+      "isCustom" : false,
+      "issuer" : "Tangerine",
+      "name" : "Tangerine Money-Back Credit Card",
+      "subtitle" : "2% Choice Categories",
+      "thumbnailColors" : [
+        "#F97316",
+        "#EA580C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_tangerine_world",
+      "isCustom" : false,
+      "issuer" : "Tangerine",
+      "name" : "Tangerine Money-Back World Mastercard",
+      "subtitle" : "2% Choice + World Perks",
+      "thumbnailColors" : [
+        "#EA580C",
+        "#0F172A"
+      ]
+    },
+    {
+      "annualFee" : 100,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_desjardins_cashback_we",
+      "isCustom" : false,
+      "issuer" : "Desjardins",
+      "name" : "Desjardins Cash Back World Elite Mastercard",
+      "subtitle" : "4% Grocery, 3% Dining",
+      "thumbnailColors" : [
+        "#2563EB",
+        "#7C3AED"
+      ]
+    },
+    {
+      "annualFee" : 130,
+      "chipColor" : "#FDE68A",
+      "id" : "ca_desjardins_odyssey_we",
+      "isCustom" : false,
+      "issuer" : "Desjardins",
+      "name" : "Desjardins Odyssey World Elite Mastercard",
+      "subtitle" : "3% Grocery/Dining",
+      "thumbnailColors" : [
+        "#0F766E",
+        "#14B8A6"
+      ]
+    }
+  ],
+  "catalog_version" : "2026-05-15-8",
+  "generated_at" : "2026-05-15T19:26:23Z",
+  "perks" : [
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Up to $75,000. Secondary to personal auto insurance.",
+      "id" : "amex_plat_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Cell Phone Protection",
+      "coverageAmount" : 800,
+      "details" : "Up to $800/claim, 2 claims/yr, $50 deductible. Pay wireless bill with card.",
+      "id" : "amex_plat_cell",
+      "name" : "Cell Phone Protection"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/trip, $20,000/year for non-refundable expenses.",
+      "id" : "amex_plat_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 6+ hours. Covers meals, lodging, toiletries.",
+      "id" : "amex_plat_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 3000,
+      "details" : "Up to $3,000 for carry-on, $2,000 for checked baggage.",
+      "id" : "amex_plat_baggage",
+      "name" : "Baggage Insurance"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim, $50,000/year. Theft/damage within 120 days.",
+      "id" : "amex_plat_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 2 additional years.",
+      "id" : "amex_plat_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days if merchant won't accept return.",
+      "id" : "amex_plat_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "Travel Accident",
+      "coverageAmount" : 500000,
+      "details" : "Up to $500,000 for accidental death/dismemberment.",
+      "id" : "amex_plat_accident",
+      "name" : "Travel Accident Insurance"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 50000,
+      "details" : "Up to $50,000. Secondary to personal auto insurance.",
+      "id" : "amex_gold_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/trip for non-refundable expenses.",
+      "id" : "amex_gold_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Trip Delay",
+      "coverageAmount" : 300,
+      "details" : "Up to $300 for delays 6+ hours.",
+      "id" : "amex_gold_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 1250,
+      "details" : "Up to $1,250 for lost/damaged baggage.",
+      "id" : "amex_gold_baggage",
+      "name" : "Baggage Insurance"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim, $50,000/year within 120 days.",
+      "id" : "amex_gold_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 additional year.",
+      "id" : "amex_gold_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "amex_gold_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 50000,
+      "details" : "Up to $50,000. Secondary to personal auto insurance.",
+      "id" : "amex_green_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/trip for non-refundable expenses.",
+      "id" : "amex_green_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Trip Delay",
+      "coverageAmount" : 300,
+      "details" : "Up to $300 for delays 6+ hours.",
+      "id" : "amex_green_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 1250,
+      "details" : "Up to $1,250 for lost/damaged baggage.",
+      "id" : "amex_green_baggage",
+      "name" : "Baggage Insurance"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "amex_green_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "amex_green_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "amex_green_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Primary coverage up to $75,000. Includes exotic vehicles. Decline rental CDW.",
+      "id" : "csr_rental",
+      "name" : "Primary CDW"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Cell Phone Protection",
+      "coverageAmount" : 800,
+      "details" : "Up to $800/claim, 2 claims/yr, $50 deductible. Pay wireless bill with card.",
+      "id" : "csr_cell",
+      "name" : "Cell Phone Protection"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/person, $20,000/trip for non-refundable expenses.",
+      "id" : "csr_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/person for delays 12+ hours. Covers meals & lodging.",
+      "id" : "csr_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 3000,
+      "details" : "Up to $3,000/traveler for lost/damaged baggage. Delay: $100/day for 5 days.",
+      "id" : "csr_baggage",
+      "name" : "Lost Luggage Reimbursement"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/item within 120 days against damage/theft.",
+      "id" : "csr_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Extended Warranty",
+      "details" : "Additional year on manufacturer warranties of 3 years or less.",
+      "id" : "csr_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Return Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/item, $1,000/year within 90 days.",
+      "id" : "csr_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "Travel Accident",
+      "coverageAmount" : 1000000,
+      "details" : "Up to $1,000,000 for accidental death/dismemberment.",
+      "id" : "csr_accident",
+      "name" : "Travel Accident Insurance"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 60000,
+      "details" : "Primary coverage up to $60,000. Decline rental company's CDW.",
+      "id" : "csp_rental",
+      "name" : "Primary CDW"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 5000,
+      "details" : "Up to $5,000/person, $10,000/trip.",
+      "id" : "csp_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 12+ hours.",
+      "id" : "csp_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 500,
+      "details" : "Up to $100/day for 5 days for delayed baggage (6+ hrs).",
+      "id" : "csp_baggage",
+      "name" : "Baggage Delay Insurance"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/item within 120 days against damage/theft.",
+      "id" : "csp_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Extended Warranty",
+      "details" : "Additional year on manufacturer warranties of 3 years or less.",
+      "id" : "csp_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "Travel Accident",
+      "coverageAmount" : 500000,
+      "details" : "Up to $500,000 coverage.",
+      "id" : "csp_accident",
+      "name" : "Travel Accident Insurance"
+    },
+    {
+      "cardCatalogID" : "chase_freedom_flex",
+      "category" : "Cell Phone Protection",
+      "coverageAmount" : 800,
+      "details" : "Up to $800/claim, 2 claims/yr, $50 deductible.",
+      "id" : "cff_cell",
+      "name" : "Cell Phone Protection"
+    },
+    {
+      "cardCatalogID" : "chase_freedom_flex",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/claim within 120 days.",
+      "id" : "cff_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "chase_freedom_flex",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "cff_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "chase_freedom_flex",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 1500,
+      "details" : "Up to $1,500/person, $6,000/trip.",
+      "id" : "cff_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "chase_freedom_unlimited",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/claim within 120 days.",
+      "id" : "cfu_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "chase_freedom_unlimited",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "cfu_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Primary coverage for rental car damage/theft.",
+      "id" : "ventx_rental",
+      "name" : "Primary CDW"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "Cell Phone Protection",
+      "coverageAmount" : 800,
+      "details" : "Up to $800/claim, $50 deductible. Pay wireless bill with card.",
+      "id" : "ventx_cell",
+      "name" : "Cell Phone Protection"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 5000,
+      "details" : "Up to $5,000/trip for non-refundable expenses.",
+      "id" : "ventx_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 12+ hours.",
+      "id" : "ventx_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 3000,
+      "details" : "Up to $3,000 for lost/damaged checked baggage.",
+      "id" : "ventx_baggage",
+      "name" : "Lost Luggage"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "Travel Accident",
+      "coverageAmount" : 250000,
+      "details" : "Up to $250,000 coverage.",
+      "id" : "ventx_accident",
+      "name" : "Travel Accident Insurance"
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 50000,
+      "details" : "Secondary coverage up to $50,000.",
+      "id" : "hilton_asp_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "hilton_asp_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "hilton_asp_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "hilton_asp_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 50000,
+      "details" : "Secondary coverage up to $50,000.",
+      "id" : "delta_gold_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "delta_gold_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "delta_gold_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "delta_gold_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Secondary coverage up to $75,000.",
+      "id" : "delta_plat_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/trip.",
+      "id" : "delta_plat_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 6+ hours.",
+      "id" : "delta_plat_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 3000,
+      "details" : "Up to $3,000 for lost/damaged baggage.",
+      "id" : "delta_plat_baggage",
+      "name" : "Baggage Insurance"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "delta_plat_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 2 years.",
+      "id" : "delta_plat_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "delta_plat_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Secondary coverage up to $75,000.",
+      "id" : "delta_res_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/trip.",
+      "id" : "delta_res_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 6+ hours.",
+      "id" : "delta_res_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 3000,
+      "details" : "Up to $3,000 for lost/damaged baggage.",
+      "id" : "delta_res_baggage",
+      "name" : "Baggage Insurance"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "delta_res_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 2 years.",
+      "id" : "delta_res_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "delta_res_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Primary coverage up to $75,000. Includes exotic vehicles. Decline rental CDW.",
+      "id" : "ritz_rental",
+      "name" : "Primary CDW"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/person, $20,000/trip.",
+      "id" : "ritz_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/person for delays 12+ hours. Covers meals & lodging.",
+      "id" : "ritz_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 500,
+      "details" : "Up to $100/day for 5 days for delayed baggage.",
+      "id" : "ritz_baggage",
+      "name" : "Baggage Delay Insurance"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/item within 120 days against damage/theft.",
+      "id" : "ritz_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Extended Warranty",
+      "details" : "Additional year on manufacturer warranties of 3 years or less.",
+      "id" : "ritz_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Return Protection",
+      "coverageAmount" : 500,
+      "details" : "Up to $500/item, $1,000/year within 90 days.",
+      "id" : "ritz_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "Travel Accident",
+      "coverageAmount" : 1000000,
+      "details" : "Up to $1,000,000 for accidental death/dismemberment.",
+      "id" : "ritz_accident",
+      "name" : "Travel Accident Insurance"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Secondary coverage up to $75,000.",
+      "id" : "mar_brill_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/trip.",
+      "id" : "mar_brill_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 6+ hours.",
+      "id" : "mar_brill_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 3000,
+      "details" : "Up to $3,000 for lost/damaged baggage.",
+      "id" : "mar_brill_baggage",
+      "name" : "Baggage Insurance"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "mar_brill_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 2 years.",
+      "id" : "mar_brill_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "mar_brill_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Primary coverage up to $75,000.",
+      "id" : "uci_rental",
+      "name" : "Primary CDW"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/person.",
+      "id" : "uci_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 6+ hours.",
+      "id" : "uci_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Baggage Insurance",
+      "coverageAmount" : 500,
+      "details" : "Up to $100/day for 5 days.",
+      "id" : "uci_baggage",
+      "name" : "Baggage Delay Insurance"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "uci_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "uci_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "Travel Accident",
+      "coverageAmount" : 500000,
+      "details" : "Up to $500,000 coverage.",
+      "id" : "uci_accident",
+      "name" : "Travel Accident Insurance"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 75000,
+      "details" : "Primary coverage up to $75,000.",
+      "id" : "ink_pref_rental",
+      "name" : "Primary CDW"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "Cell Phone Protection",
+      "coverageAmount" : 600,
+      "details" : "Up to $600/claim, 3 claims/yr, $100 deductible.",
+      "id" : "ink_pref_cell",
+      "name" : "Cell Phone Protection"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "Trip Cancellation",
+      "coverageAmount" : 5000,
+      "details" : "Up to $5,000/person.",
+      "id" : "ink_pref_tripcancel",
+      "name" : "Trip Cancellation"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "Trip Delay",
+      "coverageAmount" : 500,
+      "details" : "Up to $500 for delays 12+ hours.",
+      "id" : "ink_pref_tripdelay",
+      "name" : "Trip Delay"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 10000,
+      "details" : "Up to $10,000/claim within 120 days.",
+      "id" : "ink_pref_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "ink_pref_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "amex_bcp",
+      "category" : "Rental Car Insurance",
+      "coverageAmount" : 50000,
+      "details" : "Secondary coverage up to $50,000.",
+      "id" : "bcp_rental",
+      "name" : "Secondary CDW"
+    },
+    {
+      "cardCatalogID" : "amex_bcp",
+      "category" : "Purchase Protection",
+      "coverageAmount" : 1000,
+      "details" : "Up to $1,000/claim within 120 days.",
+      "id" : "bcp_purchase",
+      "name" : "Purchase Protection"
+    },
+    {
+      "cardCatalogID" : "amex_bcp",
+      "category" : "Extended Warranty",
+      "details" : "Extends manufacturer warranty by up to 1 year.",
+      "id" : "bcp_warranty",
+      "name" : "Extended Warranty"
+    },
+    {
+      "cardCatalogID" : "amex_bcp",
+      "category" : "Return Protection",
+      "coverageAmount" : 300,
+      "details" : "Up to $300/item within 90 days.",
+      "id" : "bcp_return",
+      "name" : "Return Protection"
+    },
+    {
+      "cardCatalogID" : "amex_platinum",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "amex_plat_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "amex_gold",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "amex_gold_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "amex_green",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "amex_green_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_reserve",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "csr_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "chase_sapphire_preferred",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "csp_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "chase_ritz_carlton",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "ritz_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "ink_business_preferred",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "ink_pref_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "ink_business_premier",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "ink_premier_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "united_explorer",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "united_explorer_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "united_quest",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "united_quest_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "united_club_infinite",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "uci_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "united_business",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "united_biz_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "world_of_hyatt",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "hyatt_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "ihg_premier",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "ihg_premier_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "marriott_boundless",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "marriott_boundless_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "marriott_bountiful",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "marriott_bountiful_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "venture_x",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "ventx_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "venture",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "vent_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "savor_one",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "savor_one_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "quicksilver",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "quicksilver_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "venture_one",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "venture_one_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "quicksilver_one",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "quicksilver_one_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "capital_one_platinum",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "capital_one_platinum_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "spark_cash_plus",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "spark_cash_plus_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "spark_miles",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "spark_miles_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "spark_cash_select",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. All Capital One cards have no FTF.",
+      "id" : "spark_cash_select_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_blue",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_blue_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_gold",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_gold_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_platinum",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_plat_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_reserve",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_res_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_biz_gold",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_biz_gold_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_biz_platinum",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_biz_plat_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "delta_biz_reserve",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "delta_biz_res_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "hilton_honors",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "hilton_honors_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "hilton_surpass",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "hilton_surpass_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "hilton_aspire",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "hilton_aspire_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "hilton_honors_business",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "hilton_biz_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "marriott_brilliant",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "marriott_brilliant_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "marriott_bonvoy_business",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "marriott_biz_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "citi_strata_premier",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "citi_strata_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "citi_strata_elite",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "citi_strata_elite_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "citi_aa_platinum",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "citi_aa_plat_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "citi_aa_executive",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "citi_aa_exec_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "discover_it",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. Discover charges no FTF on any card.",
+      "id" : "discover_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "discover_it_miles",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee. Discover charges no FTF on any card.",
+      "id" : "discover_miles_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "usb_cash_plus",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "usb_cash_plus_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "prime_visa",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "prime_visa_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "chase_aeroplan",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "chase_aeroplan_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "instacart_mastercard",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "instacart_mc_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "bilt_blue",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "bilt_blue_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "bilt_obsidian",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "bilt_obsidian_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "bilt_palladium",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "bilt_palladium_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "amex_business_gold",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "amex_biz_gold_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "amex_business_platinum",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "amex_biz_plat_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "amex_business_green",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "amex_biz_green_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "blue_business_plus",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "bbp_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "bofa_premium_rewards",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "bofa_pr_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "bofa_travel_rewards",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "bofa_travel_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "wf_autograph",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "wf_autograph_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "wf_autograph",
+      "category" : "Cell Phone Protection",
+      "coverageAmount" : 600,
+      "details" : "Up to $600 per claim with $25 deductible when phone bill is charged to card.",
+      "id" : "wf_autograph_cell",
+      "name" : "Cell Phone Protection"
+    },
+    {
+      "cardCatalogID" : "wf_autograph_journey",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "wf_autograph_journey_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "usb_altitude_go",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "usb_altitude_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "ca_scotia_gold_amex",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% foreign transaction fee. Exchange rate still applies.",
+      "id" : "ca_scotia_gold_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "ca_scotia_passport_vi",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% foreign transaction fee for online or abroad purchases. Exchange rate still applies.",
+      "id" : "ca_scotia_passport_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "ca_bmo_eclipse_vi",
+      "category" : "Rental Car Insurance",
+      "details" : "Car rental collision/loss damage insurance included; review the certificate for limits and exclusions.",
+      "id" : "ca_bmo_eclipse_rental",
+      "name" : "Car Rental CDW"
+    },
+    {
+      "cardCatalogID" : "ca_tangerine_world",
+      "category" : "Rental Car Insurance",
+      "details" : "Rental car insurance included on the World Mastercard; review certificate for terms.",
+      "id" : "ca_tangerine_world_rental",
+      "name" : "Rental Car Insurance"
+    },
+    {
+      "cardCatalogID" : "ca_desjardins_cashback_we",
+      "category" : "Rental Car Insurance",
+      "details" : "Auto rental collision and loss damage coverage included; review certificate for terms.",
+      "id" : "ca_desjardins_cashback_we_rental",
+      "name" : "Auto Rental CDW"
+    }
+  ],
+  "reward_cards" : [
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Amex Gold",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent on dining."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent at U.S. supermarkets."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on flights booked direct."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Amex Platinum",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5% back equivalent on flights (direct) and prepaid hotels via Amex Travel."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 1,
+          "reason" : "1% back equivalent on dining."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 1,
+          "reason" : "1% back equivalent on groceries."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Amex Green",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on dining."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on travel."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1,
+          "reason" : "1% back equivalent on gas."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Blue Cash Preferred",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 6,
+          "reason" : "6% cash back at U.S. supermarkets."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back at U.S. gas stations."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 1,
+          "reason" : "1% cash back on other purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Blue Cash Everyday",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3% cash back at U.S. supermarkets."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back at U.S. gas stations."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3% cash back on U.S. online retail purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Chase Sapphire Preferred",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on dining."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent on travel (non-portal)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Chase Sapphire Reserve",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on dining."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent on flights & hotels booked direct."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on other purchases.",
+      "name" : "Chase Freedom Unlimited",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% cash back on dining."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on other purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Chase Freedom Flex",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% cash back on dining."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 1,
+          "reason" : "1% cash back on other purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on all purchases.",
+      "name" : "Chase Freedom Rise",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on all purchases."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on all purchases."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on all purchases."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on all purchases."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on all purchases."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 1.5,
+          "reason" : "1.5% cash back on all purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on all purchases.",
+      "name" : "Discover it Cash Back",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 1,
+          "reason" : "1% cash back base rate."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 1,
+          "reason" : "1% cash back base rate."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 1,
+          "reason" : "1% cash back base rate."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 1,
+          "reason" : "1% cash back base rate."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1,
+          "reason" : "1% cash back base rate."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 1,
+          "reason" : "1% cash back base rate."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5x miles on all purchases. First-year miles are matched.",
+      "name" : "Discover it Miles",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 1.5,
+          "reason" : "1.5x miles on all travel and everyday purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Prime Visa",
+      "rules" : [
+        {
+          "category" : "Amazon",
+          "multiplier" : 5,
+          "reason" : "5% cash back at Amazon.com with an eligible Prime membership."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5% cash back at Whole Foods Market with an eligible Prime membership."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Amazon Visa",
+      "rules" : [
+        {
+          "category" : "Amazon",
+          "multiplier" : 3,
+          "reason" : "3% cash back at Amazon.com."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3% cash back at Whole Foods Market."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 0,
+      "defaultReason" : "No purchase rewards — intro APR / balance transfer card.",
+      "name" : "Chase Slate Edge",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Instacart Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5% cash back on Instacart purchases."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5% cash back on Chase Travel bookings."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back on dining."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 Aeroplan point per $1 on other purchases.",
+      "name" : "Aeroplan",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3 Aeroplan points per $1 on groceries."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3 Aeroplan points per $1 on dining."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3 Aeroplan points per $1 on Air Canada."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Chase Ink Business Cash",
+      "rules" : [
+        {
+          "category" : "Other",
+          "multiplier" : 5,
+          "reason" : "5% cash back at office supply stores and on internet, cable, and phone services."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back at gas stations."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back at restaurants."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on all purchases.",
+      "name" : "Chase Ink Business Unlimited",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Chase Ink Business Preferred",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on travel."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on shipping and internet/cable/phone services."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases. 3% back via AmexTravel.com not modeled here.",
+      "name" : "Amex Business Gold",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent on your top 2 categories (restaurants eligible)."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent on your top 2 categories (U.S. gas stations eligible)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases. 5% back via AmexTravel.com and 1.5% on select eligible purchases not modeled here.",
+      "name" : "Amex Business Platinum",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% back equivalent on all purchases (up to $50,000 per year, then 1%).",
+      "name" : "Blue Business Plus",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% cash back on all purchases (up to $50,000 per year, then 1%).",
+      "name" : "Blue Business Cash",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Delta SkyMiles Blue",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent on Delta purchases only."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at restaurants."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Delta SkyMiles Gold",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent on Delta purchases only."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at U.S. supermarkets."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Delta SkyMiles Platinum",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on Delta purchases and hotels booked direct."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at U.S. supermarkets."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Delta SkyMiles Reserve",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent on Delta purchases only."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% back on all other purchases.",
+      "name" : "Capital One Venture X",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 10,
+          "reason" : "10% back on hotels and car rentals booked through Capital One Travel."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back on all other purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% back on all purchases.",
+      "name" : "Capital One Venture",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Capital One Savor",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% cash back on dining."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3% cash back at grocery stores."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on all purchases.",
+      "name" : "Capital One Quicksilver",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.25,
+      "defaultReason" : "1.25 miles per $1 on all other purchases.",
+      "name" : "Capital One VentureOne",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5 miles per $1 on hotels and car rentals booked via Capital One Travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on all purchases (fair-credit version of Quicksilver).",
+      "name" : "Capital One QuicksilverOne",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 0,
+      "defaultReason" : "No rewards — credit-building card for fair credit.",
+      "name" : "Capital One Platinum",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% cash back on all purchases (1% on purchase + 1% on payment).",
+      "name" : "Citi Double Cash",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Citi Custom Cash",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5% cash back on your top eligible spend category each billing cycle."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5% cash back on your top eligible spend category each billing cycle."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 5,
+          "reason" : "5% cash back on your top eligible spend category each billing cycle."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5% cash back on your top eligible spend category each billing cycle."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% cash back on all purchases.",
+      "name" : "Wells Fargo Active Cash",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "Wells Fargo Autograph",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at restaurants."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 on travel."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at gas stations and transit."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "Wells Fargo Autograph Journey",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5 points per $1 on hotels (4x airlines, 3x other travel)."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at restaurants."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "US Bank Altitude Go",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 4,
+          "reason" : "4% cash back on dining."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% cash back at grocery stores and grocery delivery."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back at gas stations and EV charging."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "US Bank Cash+",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5% cash back on choice category (e.g. fast food). $2,000/qtr combined cap."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back on choice everyday category (gas / grocery / dining)."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% cash back on choice everyday category (gas / grocery / dining)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back on other purchases.",
+      "name" : "Citi Strata Premier",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back on air travel and hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% back at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3% back at supermarkets."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5 points per $1 on other purchases.",
+      "name" : "Citi Strata Elite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 6,
+          "reason" : "6 points per $1 on travel via Citi Travel (12x on hotels/cars/attractions)."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 on dining (6x Fri/Sat 6PM-6AM ET)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "Citi Strata",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5 points per $1 on hotels/cars/attractions via Citi Travel."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at supermarkets."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at gas and EV charging stations."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at restaurants."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 0,
+      "defaultReason" : "No purchase rewards — intro APR / balance transfer card with no late fees.",
+      "name" : "Citi Simplicity",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on all other purchases.",
+      "name" : "PayPal Cashback Mastercard",
+      "rules" : [
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3% cash back on PayPal purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Marriott Bonvoy Boundless",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 6,
+          "reason" : "6% back equivalent at Marriott hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at grocery stores."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% back equivalent on other purchases.",
+      "name" : "Chase Ritz-Carlton",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 6,
+          "reason" : "6% back equivalent at Marriott and Ritz-Carlton hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent at restaurants."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Marriott Bonvoy Brilliant",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 6,
+          "reason" : "6% back equivalent at Marriott hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent at U.S. restaurants and flights booked directly."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 3,
+      "defaultReason" : "3% back equivalent on other purchases.",
+      "name" : "Hilton Honors Amex",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 7,
+          "reason" : "7% back equivalent at Hilton properties."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5% back equivalent at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5% back equivalent at U.S. supermarkets."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 5,
+          "reason" : "5% back equivalent at U.S. gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 3,
+      "defaultReason" : "3% back equivalent on other purchases.",
+      "name" : "Hilton Honors Aspire",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 14,
+          "reason" : "14% back equivalent at Hilton properties."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 7,
+          "reason" : "7% back equivalent at restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 7,
+          "reason" : "7% back equivalent at U.S. supermarkets."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 7,
+          "reason" : "7% back equivalent at U.S. gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "IHG One Rewards Premier",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 10,
+          "reason" : "10% back equivalent at IHG hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% back equivalent on other purchases.",
+      "name" : "Marriott Bonvoy Bountiful",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 6,
+          "reason" : "6% back equivalent at Marriott hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent on dining (first $15K/yr)."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 4,
+          "reason" : "4% back equivalent at grocery stores (first $15K/yr)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Marriott Bonvoy Bold",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% back equivalent at Marriott hotels."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent at grocery stores."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "Citi AAdvantage Platinum Select",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on American Airlines purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "Citi AAdvantage Executive",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 4,
+          "reason" : "4 miles per $1 on American Airlines purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "United Explorer",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on United and hotel purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on dining."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "United Quest",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3 miles per $1 on United purchases; 2 miles on other travel."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on dining."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "United Club Infinite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 4,
+          "reason" : "4 miles per $1 on United purchases; 2 miles on other travel."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on dining."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "Southwest Priority",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 4,
+          "reason" : "4 points per $1 on Southwest purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "Southwest Plus",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 on Southwest purchases."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at grocery stores (first $5K/yr)."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at gas stations (first $5K/yr)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "World of Hyatt",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 4,
+          "reason" : "4 points per $1 at Hyatt hotels; 2 points on airline/transit."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 on transit and commuting."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2 points per $1 on other purchases.",
+      "name" : "IHG One Rewards Traveler",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 17,
+          "reason" : "Up to 17 points per $1 at IHG hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x on all purchases + 4% Bilt Cash on non-rent. Points on rent.",
+      "name" : "Bilt Blue",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x on other purchases + 4% Bilt Cash. Points on rent.",
+      "name" : "Bilt Obsidian",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3x on dining (or grocery, your choice). $25K/yr cap."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x on travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2x on all purchases + 4% Bilt Cash. Points on rent.",
+      "name" : "Bilt Palladium",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 3,
+      "defaultReason" : "3 points per $1 on other purchases.",
+      "name" : "Hilton Honors Surpass",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 12,
+          "reason" : "12 points per $1 at Hilton properties."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 6,
+          "reason" : "6 points per $1 at U.S. restaurants."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 6,
+          "reason" : "6 points per $1 at U.S. supermarkets."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 6,
+          "reason" : "6 points per $1 at U.S. gas stations."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 4,
+          "reason" : "4 points per $1 on U.S. online retail."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5 points per $1 on other purchases.",
+      "name" : "BofA Premium Rewards",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 on travel."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 on dining."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5 points per $1 on all purchases (Preferred Rewards bonus boosts this 10-75%).",
+      "name" : "BofA Travel Rewards",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "BofA Customized Cash",
+      "rules" : [
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back on choice category (default: gas). $2,500/qtr cap."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% cash back at grocery stores and wholesale clubs."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% cash back on all purchases. Charge card.",
+      "name" : "Capital One Spark Cash Plus",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5% cash back on hotels/rentals via Capital One Travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2x miles on all purchases.",
+      "name" : "Capital One Spark Miles",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5x miles on hotels/rentals via Capital One Travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on all purchases.",
+      "name" : "Capital One Spark Cash Select",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5% cash back on hotels/rentals via Capital One Travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% cash back on all purchases. 2.5% on purchases $5,000+.",
+      "name" : "Chase Ink Business Premier",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5% cash back on travel via Chase Travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "BofA Business Customized Cash",
+      "rules" : [
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back on choice category (e.g. gas). $50K/yr cap."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back on dining. $50K/yr combined cap."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "US Bank Business Triple Cash",
+      "rules" : [
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back at gas stations and EV charging."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% cash back at restaurants."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 3,
+          "reason" : "3% cash back at office supply stores and on cell phone services."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "Citi AAdvantage Business",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on American Airlines purchases."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 at gas stations and car rental."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on telecom and cable."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 point per $1 on other purchases.",
+      "name" : "SW Premier Business",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3 points per $1 on Southwest purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at restaurants (first $8K/yr)."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 points per $1 at gas stations (first $8K/yr)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1 mile per $1 on other purchases.",
+      "name" : "United Business Card",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on United purchases and transit."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 on dining."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 at gas stations."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 2,
+          "reason" : "2 miles per $1 at office supply stores."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2x on all other purchases.",
+      "name" : "Marriott Bonvoy Business",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 6,
+          "reason" : "6x at Marriott Bonvoy hotels."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 4,
+          "reason" : "4x at restaurants worldwide."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 4,
+          "reason" : "4x at U.S. gas stations."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 4,
+          "reason" : "4x on wireless phone and U.S. shipping."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 5,
+      "defaultReason" : "5x on all purchases (first $100K/yr, then 3x).",
+      "name" : "Hilton Honors Business",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 12,
+          "reason" : "12x at Hilton properties."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x on other purchases.",
+      "name" : "Delta SkyMiles Business Gold",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x on Delta purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2x at restaurants."
+        },
+        {
+          "category" : "Other",
+          "multiplier" : 2,
+          "reason" : "2x at U.S. shipping providers ($50K/yr cap)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x on other purchases. 1.5x on single purchases $5,000+.",
+      "name" : "Delta SkyMiles Business Platinum",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3x on Delta purchases and hotels booked direct."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back equivalent on other purchases.",
+      "name" : "Amex Business Green",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2% back equivalent via amextravel.com."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x on other purchases. 1.5x after $150K annual spend.",
+      "name" : "Delta SkyMiles Business Reserve",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3x on Delta purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 3,
+      "defaultReason" : "3x on all other purchases.",
+      "name" : "IHG One Rewards Premier Business",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 10,
+          "reason" : "10x at IHG hotels."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 5,
+          "reason" : "5x at gas stations."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5x at restaurants."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back on other purchases.",
+      "name" : "Amazon Business Prime Card",
+      "rules" : [
+        {
+          "category" : "Amazon",
+          "multiplier" : 5,
+          "reason" : "5% back at Amazon.com, AWS, and Amazon Business."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5% back at Whole Foods Market."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% back at restaurants."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% back at gas stations."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% on other purchases. 2% at Costco/Costco.com.",
+      "name" : "Costco Anywhere Visa Business",
+      "rules" : [
+        {
+          "category" : "Gas",
+          "multiplier" : 4,
+          "reason" : "5% at Costco gas, 4% other gas/EV ($7K/yr cap)."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% at restaurants."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% on eligible travel."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% on other purchases. 3% at Sam's Club (Plus members).",
+      "name" : "Sam's Club Business Mastercard",
+      "rules" : [
+        {
+          "category" : "Gas",
+          "multiplier" : 5,
+          "reason" : "5% on gas everywhere ($6K/yr cap)."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3% at restaurants and takeout."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2% cash back on all purchases.",
+      "name" : "WF Signify Business Cash",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5 points per $1 on all purchases. 3x via BofA Travel Center.",
+      "name" : "BofA Business Advantage Travel",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2x on top 2 categories (auto-selected monthly), 1x other.",
+      "name" : "US Bank Business Leverage",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Avion point on all other qualifying purchases.",
+      "name" : "RBC ION+ Visa",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3x Avion points on groceries in Canada."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3x Avion points on dining and food delivery."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3x Avion points on gas, rideshare, and transit-like everyday spend."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3x Avion points on streaming services."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Avion point on other qualifying purchases.",
+      "name" : "RBC ION Visa",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Avion points on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Avion points on gas, rideshare, and streaming."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Avion point on all other eligible purchases.",
+      "name" : "RBC Avion Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 1.25,
+          "reason" : "1.25x Avion points on travel-related purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5x WestJet points on everyday purchases.",
+      "name" : "WestJet RBC World Elite Mastercard",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x WestJet points on WestJet flights and vacation packages."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 2,
+      "defaultReason" : "2x TD Rewards points on other purchases.",
+      "name" : "TD First Class Travel Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 8,
+          "reason" : "8x TD Rewards points when booking through Expedia for TD."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 6,
+          "reason" : "6x TD Rewards points on groceries."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 6,
+          "reason" : "6x TD Rewards points on dining."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 4,
+          "reason" : "4x TD Rewards points on recurring bills, streaming, digital gaming, and media."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Aeroplan point on all other purchases.",
+      "name" : "TD Aeroplan Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aeroplan points on Air Canada purchases."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aeroplan points on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aeroplan points on gas and EV charging."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on all other purchases.",
+      "name" : "TD Cash Back Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "3% cash back on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back on gas, EV charging, and public transit."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3% cash back on recurring bills, streaming, digital gaming, and media."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Scene+ point on other eligible purchases.",
+      "name" : "Scotiabank Gold American Express",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 6,
+          "reason" : "Up to 6x Scene+ points at Sobeys, Safeway, FreshCo, Foodland, and more."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5x Scene+ points on dining, food delivery, food subscriptions, and eligible groceries."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 4,
+          "reason" : "Up to 4x Scene+ points on hotels and car rentals through Scene+ Travel."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3x Scene+ points on gas and transit."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3x Scene+ points on eligible streaming services."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Scene+ point on all other purchases.",
+      "name" : "Scotiabank Passport Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "Up to 3x Scene+ points on eligible grocery purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "Up to 3x Scene+ points on dining and entertainment purchases."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x Scene+ points on other grocery, dining, entertainment, and daily transit purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on all other purchases.",
+      "name" : "Scotia Momentum Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 4,
+          "reason" : "4% cash back on groceries."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 4,
+          "reason" : "4% cash back on recurring bill payments."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back on gas, EV charging, daily transit, rideshare, and food delivery."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Scene+ point on other eligible purchases.",
+      "name" : "Scotiabank American Express",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "Up to 3x Scene+ points at participating grocery partners."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2x Scene+ points on dining, food delivery, and eligible groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2x Scene+ points on gas and daily transit."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 2,
+          "reason" : "2x Scene+ points on eligible streaming services."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x BMO Rewards point on all other purchases.",
+      "name" : "BMO eclipse Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5x BMO Rewards points at grocery stores."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5x BMO Rewards points on dining, takeout, and food delivery."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 5,
+          "reason" : "5x BMO Rewards points on gas, transit, and rideshare."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x BMO Rewards point on other purchases.",
+      "name" : "BMO Ascend World Elite Mastercard",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 5,
+          "reason" : "5x BMO Rewards points on eligible travel purchases."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "3x BMO Rewards points on restaurants."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3x BMO Rewards points on recurring bill payments."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "BMO CashBack World Elite Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5% cash back on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "3% cash back on gas and EV charging."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 2,
+          "reason" : "2% cash back on recurring bills."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on everything else.",
+      "name" : "CIBC Dividend Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 4,
+          "reason" : "4% cash back on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 4,
+          "reason" : "4% cash back on gas and EV charging."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back on dining."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 2,
+          "reason" : "2% cash back on recurring payments."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Aventura point on other purchases.",
+      "name" : "CIBC Aventura Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x Aventura points through the CIBC Rewards Centre."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aventura points on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aventura points on gas and EV charging."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Aeroplan point on other purchases.",
+      "name" : "CIBC Aeroplan Visa Infinite",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aeroplan points on Air Canada purchases."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aeroplan points on groceries."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 1.5,
+          "reason" : "1.5x Aeroplan points on gas and EV charging."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Membership Rewards point on other purchases.",
+      "name" : "American Express Cobalt",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 5,
+          "reason" : "5x Membership Rewards points on eats and drinks, including grocery in Canada."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 5,
+          "reason" : "5x Membership Rewards points on restaurants, bars, cafes, and food delivery in Canada."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 3,
+          "reason" : "3x Membership Rewards points on eligible streaming subscriptions in Canada."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on gas, transit, and rideshare in Canada."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on eligible travel purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Membership Rewards point on eligible purchases everywhere else.",
+      "name" : "American Express Gold Rewards",
+      "rules" : [
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on eligible travel purchases."
+        },
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on groceries in Canada."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on gas and drugstore purchases in Canada."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1x Membership Rewards point on other purchases.",
+      "name" : "American Express Platinum Canada",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on dining and food delivery in Canada."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2x Membership Rewards points on eligible travel purchases."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 0.5,
+      "defaultReason" : "0.5% cash back on purchases outside selected categories.",
+      "name" : "Tangerine Money-Back Credit Card",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% cash back in selected Money-Back categories."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back when restaurants is selected."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back when gas is selected."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2% cash back when hotel/public transportation is selected."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 2,
+          "reason" : "2% cash back when recurring bills, e-games, or foreign currency spend is selected."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 0.5,
+      "defaultReason" : "0.5% cash back on purchases outside selected categories.",
+      "name" : "Tangerine Money-Back World Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 2,
+          "reason" : "2% cash back in selected Money-Back categories."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 2,
+          "reason" : "2% cash back when restaurants is selected."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 2,
+          "reason" : "2% cash back when gas is selected."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "2% cash back when hotel/public transportation is selected."
+        },
+        {
+          "category" : "Online",
+          "multiplier" : 2,
+          "reason" : "2% cash back when recurring bills, e-games, or foreign currency spend is selected."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% cash back on other purchases.",
+      "name" : "Desjardins Cash Back World Elite Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 4,
+          "reason" : "Up to 4% cash back on groceries."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "Up to 3% cash back on restaurants."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 3,
+          "reason" : "3% cash back on alternative transportation and entertainment."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "1% back in BONUSDOLLARS on other purchases.",
+      "name" : "Desjardins Odyssey World Elite Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "Up to 3% back in BONUSDOLLARS on groceries."
+        },
+        {
+          "category" : "Dining",
+          "multiplier" : 3,
+          "reason" : "Up to 3% back in BONUSDOLLARS on restaurants."
+        },
+        {
+          "category" : "Travel",
+          "multiplier" : 2,
+          "reason" : "Up to 2% back in BONUSDOLLARS on travel and alternative transportation."
+        }
+      ]
+    }
+  ],
+  "rotating_bonuses" : [
+    {
+      "bonusMultiplier" : 4,
+      "cardName" : "Chase Freedom Flex",
+      "categories" : [
+        "Dining",
+        "Travel",
+        "Other"
+      ],
+      "endDate" : "2026-03-31T00:00:00Z",
+      "reason" : "Q1 2026 bonus: Dining, Norwegian Cruise Line (Travel), American Heart Association donations (Other). Activation required. 7% total on dining (3% base + 4% bonus).",
+      "startDate" : "2026-01-01T00:00:00Z"
+    },
+    {
+      "bonusMultiplier" : 4,
+      "cardName" : "Discover it Cash Back",
+      "categories" : [
+        "Grocery",
+        "Other",
+        "Online"
+      ],
+      "endDate" : "2026-03-31T00:00:00Z",
+      "reason" : "Q1 2026 bonus: Grocery stores, wholesale clubs (Other), select streaming services (Online). Activation required. 5% total (1% base + 4% bonus).",
+      "startDate" : "2026-01-01T00:00:00Z"
+    },
+    {
+      "bonusMultiplier" : 4,
+      "cardName" : "Chase Freedom Flex",
+      "categories" : [
+        "Amazon",
+        "Grocery",
+        "Travel",
+        "Other"
+      ],
+      "endDate" : "2026-06-30T00:00:00Z",
+      "reason" : "Q2 2026 bonus: Amazon, Whole Foods (Grocery), Chase Travel (Travel), and Feeding America donations (Other). Activation required. 5% total on most bonus categories.",
+      "startDate" : "2026-04-01T00:00:00Z"
+    },
+    {
+      "bonusMultiplier" : 4,
+      "cardName" : "Discover it Cash Back",
+      "categories" : [
+        "Dining",
+        "Other"
+      ],
+      "endDate" : "2026-06-30T00:00:00Z",
+      "reason" : "Q2 2026 bonus: Restaurants (Dining) and home improvement stores (Other). Activation required. 5% total (1% base + 4% bonus).",
+      "startDate" : "2026-04-01T00:00:00Z"
+    }
+  ],
+  "schema_version" : 1
+}

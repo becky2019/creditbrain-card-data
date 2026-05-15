@@ -1,7 +1,7 @@
 {
-  "catalog_version" : "2026-05-15-9",
+  "catalog_version" : "2026-05-15-10",
   "minimum_app_version" : "1.0.0",
   "schema_version" : 1,
-  "sha256" : "cbfd8744dd382db21b42326f51db7d6caa652883c8aa5dafc87cd43ec40567de",
-  "url" : "https://becky2019.github.io/creditbrain-card-data/card-data/v1/catalog-2026-05-15-9.json"
+  "sha256" : "08815e0741a5437b57b5ae8a45fc7550ad95847d1e98e3265e45150b20e9c9d0",
+  "url" : "https://becky2019.github.io/creditbrain-card-data/card-data/v1/catalog-2026-05-15-10.json"
 }

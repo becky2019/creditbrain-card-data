@@ -426,11 +426,11 @@
     },
     {
       "cardCatalogID" : "citi_strata_elite",
-      "frequency" : "semiAnnual",
+      "frequency" : "annual",
       "id" : "citi_strata_elite_blacklane",
       "isCustom" : false,
       "name" : "Blacklane Credit",
-      "value" : 100
+      "value" : 200
     },
     {
       "cardCatalogID" : "citi_strata_elite",
@@ -1566,7 +1566,7 @@
       ]
     },
     {
-      "annualFee" : 595,
+      "annualFee" : 495,
       "chipColor" : "#D1A85E",
       "id" : "citi_strata_elite",
       "isCustom" : false,
@@ -1745,7 +1745,7 @@
       ]
     },
     {
-      "annualFee" : 595,
+      "annualFee" : 695,
       "chipColor" : "#E5E7EB",
       "id" : "citi_aa_executive",
       "imageURL" : "https://becky2019.github.io/creditbrain-card-data/card-data/images/citi_aa_executive.png",
@@ -2586,6 +2586,58 @@
       ]
     },
     {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "ca_rogers_we",
+      "isCustom" : false,
+      "issuer" : "Rogers Bank",
+      "name" : "Rogers World Elite Mastercard",
+      "subtitle" : "3% USD / 1.5% Other",
+      "thumbnailColors" : [
+        "#DC2626",
+        "#7F1D1D"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FED7AA",
+      "id" : "ca_pc_financial_we",
+      "isCustom" : false,
+      "issuer" : "PC Financial",
+      "name" : "PC Financial World Elite Mastercard",
+      "subtitle" : "4.5% Shoppers / 3% Loblaw/Esso",
+      "thumbnailColors" : [
+        "#F97316",
+        "#EA580C"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#FECACA",
+      "id" : "ca_triangle_mc",
+      "isCustom" : false,
+      "issuer" : "Canadian Tire",
+      "name" : "Triangle Mastercard",
+      "subtitle" : "4% Canadian Tire / 1.5% Grocery",
+      "thumbnailColors" : [
+        "#B91C1C",
+        "#7F1D1D"
+      ]
+    },
+    {
+      "annualFee" : 0,
+      "chipColor" : "#BBF7D0",
+      "id" : "ca_simplii_cash_back",
+      "isCustom" : false,
+      "issuer" : "Simplii",
+      "name" : "Simplii Financial Cash Back Visa",
+      "subtitle" : "4% Dining ($5K cap)",
+      "thumbnailColors" : [
+        "#16A34A",
+        "#15803D"
+      ]
+    },
+    {
       "annualFee" : 100,
       "chipColor" : "#FDE68A",
       "id" : "ca_desjardins_cashback_we",
@@ -2613,7 +2665,7 @@
     }
   ],
   "catalog_version" : "2026-05-15-11",
-  "generated_at" : "2026-05-16T01:11:28Z",
+  "generated_at" : "2026-05-16T01:30:39Z",
   "perks" : [
     {
       "cardCatalogID" : "amex_platinum",
@@ -3752,6 +3804,13 @@
       "category" : "No Foreign Transaction Fee",
       "details" : "0% fee. Discover charges no FTF on any card.",
       "id" : "discover_miles_noftf",
+      "name" : "No Foreign Transaction Fee"
+    },
+    {
+      "cardCatalogID" : "usb_cash_plus",
+      "category" : "No Foreign Transaction Fee",
+      "details" : "0% fee on international purchases.",
+      "id" : "usb_cash_plus_noftf",
       "name" : "No Foreign Transaction Fee"
     },
     {
@@ -6108,6 +6167,60 @@
           "category" : "Online",
           "multiplier" : 2,
           "reason" : "2% cash back when recurring bills, e-games, or foreign currency spend is selected."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 1.5,
+      "defaultReason" : "1.5% cash back on non-USD purchases (2% if Rogers/Fido customer); 3% on USD purchases offsets the 2.5% FTF.",
+      "name" : "Rogers World Elite Mastercard",
+      "rules" : [
+
+      ]
+    },
+    {
+      "defaultMultiplier" : 1,
+      "defaultReason" : "10 PC Optimum points/$1 on other purchases (~1%). Requires $80K personal / $150K household income.",
+      "name" : "PC Financial World Elite Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 3,
+          "reason" : "30 PC Optimum points/$1 at Loblaw banner grocery (~3%); 45 pts/$1 at Shoppers Drug Mart (~4.5%)."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "30 PC Optimum points/$1 at Esso and Mobil stations (~3%)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 0.8,
+      "defaultReason" : "0.8% CT Money on other purchases. 4% at Canadian Tire & affiliates.",
+      "name" : "Triangle Mastercard",
+      "rules" : [
+        {
+          "category" : "Grocery",
+          "multiplier" : 1.5,
+          "reason" : "1.5% CT Money on groceries (first $12,000/year)."
+        },
+        {
+          "category" : "Gas",
+          "multiplier" : 3,
+          "reason" : "5¢/L Canadian Tire Money at Husky/Gas+ (~3-4% effective)."
+        }
+      ]
+    },
+    {
+      "defaultMultiplier" : 0.5,
+      "defaultReason" : "0.5% cash back on other purchases.",
+      "name" : "Simplii Financial Cash Back Visa",
+      "rules" : [
+        {
+          "category" : "Dining",
+          "multiplier" : 4,
+          "reason" : "4% cash back on restaurants, bars, coffee shops (first $5,000/year)."
         }
       ]
     },

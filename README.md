@@ -1,6 +1,6 @@
-# CardBrain Card Data
+# CardWorth Card Data
 
-This public repository hosts generated CardBrain card catalog JSON for the app.
+This public repository hosts generated CardWorth card catalog JSON for the app.
 
 Published manifest:
 
